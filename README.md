@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Vojtech
 
-<!--
-**strachotavojtech/strachotavojtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Financial Markets & Data Analysis at Charles University (IES), focused on machine learning and econometrics.
 
-Here are some ideas to get you started:
+- Corporate Portfolio Specialist at Raiffeisenbank: industry and portfolio analyses, Python tools development, ML models
+- Built and maintain a Django app used across a department
+- Thesis: Modelling the valuation of second-hand cars in the Czech Republic
+- Coursework: Deep Learning, Deep Reinforcement Learning, Machine Learning with Python, Data Science with R, Advanced / Applied / Financial Econometrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** R, SQL, Python (pandas, NumPy, scikit-learn, PyTorch), Django
+
+**Interests:** cars, motorsport, basketball, american football
+
+Open to research collaboration and data science opportunities — reach me on [LinkedIn](YOUR-LINKEDIN-URL).
