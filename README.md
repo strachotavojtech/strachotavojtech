@@ -1,4 +1,4 @@
-### Hi, I'm Vojtech
+### Hi, I'm Vojtěch
 
 MSc student in Financial Markets & Data Analysis at Charles University (IES), focused on machine learning and econometrics.
 
